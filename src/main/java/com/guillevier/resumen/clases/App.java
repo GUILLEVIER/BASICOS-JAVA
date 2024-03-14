@@ -12,7 +12,7 @@ public class App {
     try {
       connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/resumen", "user", "password");
       UserDao userDao = new UserDaoImpl(connection);
-      // Uso de métodos de userDao para acceder a los datos
+      // Uso de métodos de userDao para acceder a los datos.
     } catch (SQLException e) {
       e.printStackTrace();
     } finally {

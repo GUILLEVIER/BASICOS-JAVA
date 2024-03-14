@@ -14,7 +14,6 @@ public class UserDaoImpl implements UserDao {
     this.connection = connection;
   }
 
-
   @Override
   public void addUser(User user) {
     // Implementación de método addUser utilizando una base de datos MySQL

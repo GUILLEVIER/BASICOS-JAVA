@@ -7,4 +7,6 @@ module com.guillevier.resumen {
 
     opens com.guillevier.resumen to javafx.fxml;
     exports com.guillevier.resumen;
+  exports com.guillevier.resumen.clases;
+  opens com.guillevier.resumen.clases to javafx.fxml;
 }
