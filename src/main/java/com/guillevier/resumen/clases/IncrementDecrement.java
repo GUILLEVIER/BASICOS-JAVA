@@ -10,8 +10,7 @@ class IncrementDecrement {
     // PREFIJO
     // Gana un regalo por ganar una vida.
     int gift = 100 + ++lives;
-    // Regalo: 105, vidas: 6
-    System.out.print(gift);
-    System.out.print(lives);
+    System.out.print("GIFT: " + gift);
+    System.out.print("LIVES: " + lives);
   }
 }

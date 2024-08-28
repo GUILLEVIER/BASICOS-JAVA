@@ -17,10 +17,14 @@ class IfStatement {
     // System.out.println(i);
 
     String intensidadInternet = "nula";
-    if (intensidadInternet.equals("nula")) System.out.println("No hay Internet");
-    else if (intensidadInternet.equals("baja")) System.out.println("Tienes muy poquito Internet");
-    else if (intensidadInternet.equals("media")) System.out.println("Casi casi, falta solo un poquito más");
-    else System.out.println("¡Tienes suficiente Internet!");
+    if (intensidadInternet.equals("nula"))
+      System.out.println("No hay Internet");
+    else if (intensidadInternet.equals("baja"))
+      System.out.println("Tienes muy poquito Internet");
+    else if (intensidadInternet.equals("media"))
+      System.out.println("Casi casi, falta solo un poquito más");
+    else
+      System.out.println("¡Tienes suficiente Internet!");
 
     int x = 10;
     String r1 = (x > 5) ? "x is greater than 5" : "x is not greater than 5";

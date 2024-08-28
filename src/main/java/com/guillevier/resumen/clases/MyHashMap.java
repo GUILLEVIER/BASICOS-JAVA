@@ -54,7 +54,6 @@ public class MyHashMap {
 		System.out.println(capitalCities);
 		capitalCities.get("England");
 		capitalCities.remove("England");
-		capitalCities.clear();
 		// Print keys
 		for (String cCK : capitalCities.keySet()) {
 			System.out.println(cCK);
@@ -67,5 +66,6 @@ public class MyHashMap {
 		for (String cCK : capitalCities.keySet()) {
 			System.out.println("key: " + cCK + " value: " + capitalCities.get(cCK));
 		}
+		capitalCities.clear();
 	}
 }

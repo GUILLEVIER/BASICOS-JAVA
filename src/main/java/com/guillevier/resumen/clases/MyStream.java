@@ -15,6 +15,27 @@ public class MyStream {
 		/*
 		En este ejemplo, el método rangeClosed crea un Stream de números enteros en el rango [1, 100]. Luego, el método sum se utiliza para calcular la suma de todos los números en el Stream.
 		*/
+		/*
+		5050
+		[ALICE, BOB, CHARLIE, DAVID]
+		[Alice]
+		[2, 4, 6, 8, 10]
+		LIST: [1, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10]
+		ARRAY LIST: [1, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10]
+		LISTA CON ELEMENTOS DUPLICADOS: [1, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10]
+		LISTA SIN ELEMENTOS DUPLICADOS: [1, 2]
+		[2, 4, 6, 8, 10]
+		1
+		2
+		3
+		4
+		5
+		6
+		7
+		8
+		9
+		10
+		*/
 		int sum = IntStream.rangeClosed(1, 100)
 						.sum();
 		System.out.println(sum);

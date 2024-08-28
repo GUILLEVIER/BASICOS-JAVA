@@ -32,7 +32,5 @@ class LogicOperations {
     } else if (a == b || b == a) {
       System.out.println("a es igual a b o b es igual a a");
     }
-
-    
   }
 }

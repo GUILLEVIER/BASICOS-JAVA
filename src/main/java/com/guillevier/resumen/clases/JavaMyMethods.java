@@ -21,27 +21,33 @@ public class JavaMyMethods {
   static void myMethodWithParameter(String fname) {
     System.out.println(fname);
   }
-  
+
   static int myMethodNumeric(int x) {
     return 5 + x;
   }
-  
+
   // Create a checkAge() method with an integer variable called age
   static void checkAge(int age) {
     // If age is less than 18, print "access denied"
     // If age is greater than, or equal to, 18, print "access granted"
-    if (age < 18) throw new ArithmeticException("Access denied - You must be at least 18 years old.");
-    else System.out.println("Access granted - You are old enough!");
+    if (age < 18)
+      throw new ArithmeticException("Access denied - You must be at least 18 years old.");
+    else
+      System.out.println("Access granted - You are old enough!");
   }
 
   public static int sum(int k) {
-    if (k > 0) return k + sum(k - 1);
-    else return 0;
+    if (k > 0)
+      return k + sum(k - 1);
+    else
+      return 0;
   }
 
   public static int sum(int start, int end) {
-    if (end > start) return end + sum(start, end - 1);
-    else return end;
+    if (end > start)
+      return end + sum(start, end - 1);
+    else
+      return end;
   }
 
   public static void main(String[] args) {

@@ -5,7 +5,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class MyString {
-
 	public static void main(String[] args) {
 		String originalStr = "Hello";
 		String reversedStr = "";

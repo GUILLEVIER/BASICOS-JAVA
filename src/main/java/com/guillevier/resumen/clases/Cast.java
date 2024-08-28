@@ -20,18 +20,22 @@ class Cast {
     int b = 12;
 
     // Cast de manera no automática.
+    // Se fuerza a que la división entregue como resultado un double.
     System.out.println((double) a / b);
 
     // Cast de manera automática.
+    // División entre 2 números enteros, pero defino el resultado como double.
     double c = a / b;
-    System.out.println(c);
+    System.out.println("Cast automático a entero: " + c);
 
     char n = '1';
-    int nI = n;
+    System.out.println(n);
 
-    // Retorna el ASCII de un char.
+    // RETORNA EL ASCII DEL CHAR 1
+    int nI = (int) n;
     System.out.println(nI);
 
+    // RETORNA EL ASCII DEL CHAR 1
     short nS = (short) n;
     System.out.println(nS);
   }
