@@ -28,10 +28,10 @@ public class Calculadora {
    */
   public static void main(String[] args) {
     int result = suma(10, 30);
-    float resultFl = suma(result, (float) Main.PI);
+    float resultFl = suma(result, (float) Calculadora.PI);
     int randomNum = (int) (Math.random() * 101); // 0 to 100
     resultFl = suma(resultFl, 32);
-    System.out.println("Valor de PI: " + Main.PI);
+    System.out.println("Valor de PI: " + Calculadora.PI);
     System.out.println("Resultado final: " + resultFl);
     System.out.println(Math.PI);
     // Devuelve un entero hacia arriba
