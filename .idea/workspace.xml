@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a843d3d9-f383-444e-995b-0b3b30762847" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/DAO/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/IMPL/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/LevelExt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/Resumen$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/Resumen$ColorSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/Resumen$LevelInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/Resumen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Cast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/ClaseEnvolvente$ClaseInternaEstatica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/ClaseEnvolvente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Color$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Color$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Color$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/CreateFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/DeleteFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/DeleteFolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/DoWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Doctor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/DomesticCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/FirstInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/GetFileInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/IfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/IncrementDecrement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/InterfazMultiple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/JavaMyMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Lambdas1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Lambdas2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/LocalDate1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/LocalDate2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/LocalDate3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/LocalDate4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/LogicOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Mammal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyFunctionalInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyOuterClass$OuterClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyOuterClass$OuterClass$1LocalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyOuterClass$OuterClass$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyOuterClass$OuterClass$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyOuterClass$OuterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyOuterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyOuterClassTwo$1OuterClassTwo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyOuterClassTwo$1OuterClassTwo$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyOuterClassTwo$1OuterClassTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyOuterClassTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyPOO$MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyPOO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyThread3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyTreeMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/OuterClassTwo$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/OuterClassTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Perro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/ReadFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/SecondInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/StringFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/UpdatingVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/WriteToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resumen-1.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2lXaDuA2gpNj39ZkdwiCQsKHfRi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a843d3d9-f383-444e-995b-0b3b30762847" name="Changes" comment="" />
+      <created>1725328758791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725328758791</updated>
+    </task>
+    <servers />
+  </component>
+</project>
