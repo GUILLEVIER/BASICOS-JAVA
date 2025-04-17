@@ -1,3 +1,5 @@
 package com.guillevier.resumen.clases;
 
-public class User {}
+// LISTO
+public class User {
+}

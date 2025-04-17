@@ -1,5 +1,6 @@
 package com.guillevier.resumen.clases;
 
+// LISTO
 class LogicOperations {
   public static void main(String[] args) {
     int a = 8;

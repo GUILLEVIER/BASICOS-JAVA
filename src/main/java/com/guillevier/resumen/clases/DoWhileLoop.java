@@ -1,6 +1,8 @@
 package com.guillevier.resumen.clases;
+
 import java.util.Scanner;
 
+// LISTO
 class DoWhileLoop {
   public static void main(String[] args) {
     int response;

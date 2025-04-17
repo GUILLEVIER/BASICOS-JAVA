@@ -1,5 +1,6 @@
 package com.guillevier.resumen.clases;
 
+// LISTO
 class UpdatingVariable {
   public static void main(String[] args) {
     int salary = 1000;
@@ -11,12 +12,10 @@ class UpdatingVariable {
     // Cupón de comida de $50
     salary = salary + (150 * 2) - 50;
     System.out.println(salary);
+
     // Actualizando cadenas de texto
     String employeeName = "Cindy Oñate";
     employeeName = employeeName + " - CEO";
-    System.out.println(employeeName.toUpperCase());
-    System.out.println(employeeName.toLowerCase());
-    System.out.println(employeeName.length());
     System.out.println("RESULTADO: " + employeeName);
   }
 }

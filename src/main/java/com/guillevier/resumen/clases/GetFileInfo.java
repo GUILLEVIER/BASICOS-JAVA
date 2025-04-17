@@ -2,6 +2,7 @@ package com.guillevier.resumen.clases;
 
 import java.io.File;
 
+// LISTO
 public class GetFileInfo {
   public static void main(String[] args) {
     File myFile = new File("filename.txt");

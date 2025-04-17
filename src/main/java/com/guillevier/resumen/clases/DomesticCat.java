@@ -1,5 +1,6 @@
 package com.guillevier.resumen.clases;
 
+// LISTO
 public class DomesticCat implements Cat {
 
   // PROPIA DE INTERFACE Cat

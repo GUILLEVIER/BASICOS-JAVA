@@ -1,11 +1,10 @@
 package com.guillevier.resumen.clases;
 
+// LISTO
 // CLASE PUBLICA Car.
 public class Car {
   // DEFINICIÓN DE ATRIBUTOS CON VALORES INICIALES.
   protected String brand = "Ford";
-  int x;
-  int y;
   int modelYear;
   String modelName;
 
@@ -22,21 +21,35 @@ public class Car {
     System.out.println("Tuut, tuut!");
   }
 
+  // CONSTRUCTOR
   public Car() {
-    
+
   }
 
-  public Car(int x, int y, int year, String name) {
-    x = 5; // Set the initial value for the class attribute x
-    y = y;
+  public Car(int year, String name) {
     modelYear = year;
     modelName = name;
   }
 
+  public Car(String brand, int year, String name) {
+    this.brand = brand;
+    modelYear = year;
+    modelName = name;
+  }
+
+  public int getYear() {
+    return modelYear;
+  }
+
+  public String getName() {
+    return modelName;
+  }
+
   public static void main(String[] args) {
     Car myCar = new Car(); // Create a myCar object
-    Car myCarTwo = new Car(10, 20, 1969, "Mustang");
+    Car myCarTwo = new Car(1969, "Mustang");
     myCar.fullThrottle(); // Call the fullThrottle() method
+    myCar.honk();
     myCarTwo.speed(200); // Call the speed() method
   }
 }

@@ -3,6 +3,7 @@ package com.guillevier.resumen.clases;
 import java.util.ArrayList;
 import java.util.Collections;
 
+// LISTO
 class Arrays {
   public static void main(String[] args) {
     // Si la cantidad de valores a almacenar es fija,
@@ -15,8 +16,7 @@ class Arrays {
     androidVersions[1] = "Banana Bread";
     androidVersions[2] = "Cupcake";
     androidVersions[3] = "Donut";
-
-    String[] days = new String[7];
+    // ...
 
     // Arreglo de dos dimensiones:
     String[][] cities = new String[4][2];
@@ -32,7 +32,7 @@ class Arrays {
     int[][][][] numbers4 = new int[2][2][2][2];
 
     // [1][0][0][1]
-    String[][][][] animals = new String[2][3][2][2];
+    String[][][][] animals = new String[2][2][2][2];
     animals[1][0][0][1] = "Monkey";
 
     // Crear un OBJETO de tipo ArrayList.
@@ -79,7 +79,6 @@ class Arrays {
     // Para esto se convierte en una Collections:
     Collections.sort(cars);
     Collections.sort(myNumbers);
-    Collections.frequency(cars, "Volvo");
 
     for (int i : myNumbers) {
       System.out.println(i);
@@ -91,10 +90,6 @@ class Arrays {
 
     for (String androidVersion : androidVersions) {
       System.out.println(androidVersion);
-    }
-
-    for (int i = 0; i < days.length; i++) {
-      System.out.println(days[i]);
     }
 
     for (int i = 0; i < cities.length; i++) {
@@ -120,11 +115,11 @@ class Arrays {
     }
 
     // Definición de un Arreglo de números:
-    int[] myNumbersArray = { 1, 5, 10, 25 };
+    int[] myNumbersArray = {1, 5, 10, 25};
     int sum = 0;
     int i;
 
-    // Calcula la suma de los valores del A rreglo:
+    // Calcula la suma de los valores del Arreglo:
     for (i = 0; i < myNumbersArray.length; i++) {
       sum += myNumbersArray[i];
     }

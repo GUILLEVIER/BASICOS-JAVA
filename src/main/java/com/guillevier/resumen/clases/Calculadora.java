@@ -1,5 +1,6 @@
 package com.guillevier.resumen.clases;
 
+// LISTO
 public class Calculadora {
   // Definición de valores constantes.
   public static final double PI = 3.1415926;
@@ -29,11 +30,12 @@ public class Calculadora {
   public static void main(String[] args) {
     int result = suma(10, 30);
     float resultFl = suma(result, (float) Calculadora.PI);
-    int randomNum = (int) (Math.random() * 101); // 0 to 100
     resultFl = suma(resultFl, 32);
     System.out.println("Valor de PI: " + Calculadora.PI);
     System.out.println("Resultado final: " + resultFl);
     System.out.println(Math.PI);
+
+    // UTILS CLASE MATH
     // Devuelve un entero hacia arriba
     System.out.println(Math.ceil(x));
     // Devuelve un entero hacia abajo
@@ -48,11 +50,7 @@ public class Calculadora {
     System.out.println(4 * Math.PI * Math.pow(x, 2));
     // Volumen de una esfera
     System.out.println((4 * Math.PI * Math.pow(x, 3)) / 3);
-    Math.max(5, 10);
-    Math.min(5, 10);
-    Math.sqrt(64);
-    Math.abs(-4.7);
-    System.out.println("Número random: " + Math.random());
-    System.out.println("Número random: " + randomNum);
+    // Devuelve el valor absoluto
+    System.out.println(Math.abs(-4.7));
   }
 }

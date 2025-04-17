@@ -1,6 +1,6 @@
 package com.guillevier.resumen.clases;
 
-// INTERFACE Cat
+// LISTO
 public interface Cat extends Mammal {
   void meow();
 }

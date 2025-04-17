@@ -1,5 +1,6 @@
 package com.guillevier.resumen.clases;
 
+// LISTO
 public interface MyInterface {
   // MÉTODO DEFAULT
   default void myMethod() {

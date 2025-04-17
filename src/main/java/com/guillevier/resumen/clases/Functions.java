@@ -1,12 +1,15 @@
 package com.guillevier.resumen.clases;
 
+// LISTO
 class Functions {
   public static double circleArea(final double r) {
     return Math.PI * Math.pow(r, 2);
   }
+
   public static double sphereArea(final double r) {
     return 4 * Math.PI * Math.pow(r, 2);
   }
+
   public static double sphereVolumen(final double r) {
     return (4 * Math.PI * Math.pow(r, 3)) / 3;
   }
@@ -14,7 +17,7 @@ class Functions {
   /**
    * Descripción: Función que especificando su moneda convierte una cantidad de
    * dinero a dólares.
-   * 
+   *
    * @param quantity - Cantidad de dinero.
    * @param currency - Moneda de la cantidad: Solo aceptar USD, EUR o GBP.
    * @return - Cantidad de dinero en dólares.

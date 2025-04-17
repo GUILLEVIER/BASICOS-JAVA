@@ -1,6 +1,6 @@
 package com.guillevier.resumen.clases;
 
-// INTERFACE Mammal
+// LISTO
 public interface Mammal {
   void eat();
 }

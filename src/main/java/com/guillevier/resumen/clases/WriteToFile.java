@@ -3,6 +3,7 @@ package com.guillevier.resumen.clases;
 import java.io.FileWriter;
 import java.io.IOException;
 
+// LISTO
 public class WriteToFile {
   public static void main(String[] args) {
     try {

@@ -1,7 +1,7 @@
 package com.guillevier.resumen.clases;
 
+// LISTO
 public class Person {
-  // private = restricted access
   private String name;
 
   // Getter

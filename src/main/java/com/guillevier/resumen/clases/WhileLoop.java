@@ -1,5 +1,6 @@
 package com.guillevier.resumen.clases;
 
+// LISTO
 class WhileLoop {
   public static void main(String[] args) {
     int i = 0;

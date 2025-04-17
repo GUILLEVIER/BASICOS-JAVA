@@ -1,38 +1,31 @@
 package com.guillevier.resumen.clases;
+
 import java.util.ArrayList;
 
+// LISTO
 class ForLoop {
   public static void main(String[] args) {
-    // for (inicialización; condición; incremento o decremento;) { // Instrucciones
-    // }
+    // for (inicialización; condición; incremento o decremento;) { // Instrucciones }
     // SENTENCIA BREAK
     // Break también se puede utilizar para salir de un bucle.
-    for (int i2 = 0; i2 < 10; i2++) {
-      if (i2 == 5) {
+    for (int i = 0; i < 10; i++) {
+      if (i == 5) {
         break;
       }
-      // 4
-      System.out.println(i2);
+      System.out.println(i); // 4
     }
-
     // SENTENCIA CONTINUE
-    // Si se tiene un bucle for y se desea saltar la impresión del valor de i
-    // después de cumplir una condición.
-    // En este ejemplo, después de encontrar la sentencia continue, el bucle se
-    // saltará la impresión del valor de i y continuará con la siguiente iteración
-    // del bucle.
-    // Continue interrumpe una iteración (en el bucle), si se produce una condición
-    // específica, y continúa con la siguiente iteración en el bucle.
-    for (int i3 = 0; i3 < 10; i3++) {
-      if (i3 == 5) {
+    // El bucle se saltará la impresión del valor de i y continuará con la siguiente iteración del bucle.
+    for (int init = 0; init < 10; init++) {
+      if (init == 5) {
         // Salta el valor 5.
         continue;
       }
-      System.out.println(i3);
+      System.out.println(init);
     }
 
     // CICLOS FOR ANIDADOS
-    // Por ejemplo, si tenemos dos listas (list1 y list2) y queremos comparar todos
+    // Si tenemos dos listas (list1 y list2) y queremos comparar todos
     // los elementos de una lista con todos los elementos de la otra lista.
     ArrayList<String> list1 = new ArrayList<String>();
     list1.add("A");
@@ -43,10 +36,10 @@ class ForLoop {
     list2.add("B");
     list2.add("C");
 
-    for (String sList1 : list1) {
-      for (String sList2 : list2) {
-        if (sList1.equals(sList2)) {
-          System.out.println("SON ELEMENTOS IGUALES: " + sList1 + " = " + sList2);
+    for (String element1 : list1) {
+      for (String element2 : list2) {
+        if (element1.equals(element2)) {
+          System.out.println("SON ELEMENTOS IGUALES: " + element1 + " = " + element2);
         }
       }
     }
