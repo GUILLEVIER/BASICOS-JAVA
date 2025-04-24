@@ -1,7 +1,6 @@
 package com.guillevier.resumen.clases;
 
 import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class EjemploStreamMap {
@@ -15,7 +14,7 @@ public class EjemploStreamMap {
               usuario.setNombre(nombre);
               return usuario;
             });
-    List<Usuario> lista = nombres.collect(Collectors.toList());
+    List<Usuario> lista = nombres.toList();
     lista.forEach(System.out::println);
   }
 }

@@ -7,12 +7,11 @@ import com.guillevier.resumen.clases.patrones.factory.producto.PizzaCaliforniaVe
 public class PizzeriaCaliforniaFactory extends PizzeriaZonaAbstractFactory {
   @Override
   PizzaProducto crearPizza(String tipo) {
-    PizzaProducto producto = switch (tipo) {
+    return switch (tipo) {
       case "queso" -> new PizzaCaliforniaQueso();
       case "pepperoni" -> new PizzaCaliforniaPepperoni();
       case "vegetariana" -> new PizzaCaliforniaVegetariana();
       default -> null;
     };
-    return producto;
   }
 }

@@ -9,12 +9,11 @@ public class EjemploMatricesSimetrica {
             {3, 0, 1, 6},
             {4, 5, 6, 7}
     };
-    salir:
     for (int i = 0; i < matriz.length; i++) {
       for (int j = 0; j < i; j++) {
         if (matriz[i][j] != matriz[j][i]) {
           simetrica = false;
-          break salir;
+          break;
         }
       }
     }

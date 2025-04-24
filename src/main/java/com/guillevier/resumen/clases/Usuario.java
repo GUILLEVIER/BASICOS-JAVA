@@ -5,6 +5,9 @@ public class Usuario {
   private String nombre;
   private String apellido;
 
+  public Usuario() {
+  }
+
   public String getNombre() {
     return nombre;
   }

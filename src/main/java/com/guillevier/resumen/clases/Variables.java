@@ -25,7 +25,6 @@ class Variables {
     float nF = 123.4567890F;
     // Declaring and Assigning a variable
     String employeeName = "Cindy Oñate";
-
     // Printing the value of the variable
     System.out.println("Nombre: " + employeeName + " Edad: " + age + " Velocidad de reacción: " + speed);
   }

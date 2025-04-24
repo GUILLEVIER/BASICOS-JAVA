@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a843d3d9-f383-444e-995b-0b3b30762847" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesSimetrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesSimetrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMetodoGetClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMetodoGetClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/patrones/factory/PizzeriaCaliforniaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/patrones/factory/PizzeriaCaliforniaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/validador/RequeridoValidador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/validador/RequeridoValidador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
