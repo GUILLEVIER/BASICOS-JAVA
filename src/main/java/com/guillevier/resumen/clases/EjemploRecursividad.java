@@ -1,5 +1,7 @@
 package com.guillevier.resumen.clases;
 
+import com.guillevier.resumen.clases.models.Componente;
+
 import java.util.stream.Stream;
 
 public class EjemploRecursividad {

@@ -1,6 +1,6 @@
 package com.guillevier.resumen.impl;
 
-import com.guillevier.resumen.clases.User;
+import com.guillevier.resumen.clases.models.User;
 import com.guillevier.resumen.dao.UserDao;
 
 import java.sql.Connection;

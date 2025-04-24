@@ -1,6 +1,6 @@
 package com.guillevier.resumen.dao;
 
-import com.guillevier.resumen.clases.User;
+import com.guillevier.resumen.clases.models.User;
 
 import java.util.List;
 

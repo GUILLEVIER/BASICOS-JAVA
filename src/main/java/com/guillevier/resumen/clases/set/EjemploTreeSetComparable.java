@@ -1,6 +1,6 @@
 package com.guillevier.resumen.clases.set;
 
-import com.guillevier.resumen.clases.Alumno;
+import com.guillevier.resumen.clases.models.Alumno;
 
 import java.util.Set;
 import java.util.TreeSet;

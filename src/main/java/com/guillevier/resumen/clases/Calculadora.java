@@ -1,5 +1,7 @@
 package com.guillevier.resumen.clases;
 
+import com.guillevier.resumen.clases.functionals.Functions;
+
 // LISTO
 public class Calculadora {
   // Definición de valores constantes.

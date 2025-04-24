@@ -1,5 +1,6 @@
 package com.guillevier.resumen.clases;
 
+import com.guillevier.resumen.clases.models.User;
 import com.guillevier.resumen.dao.UserDao;
 import com.guillevier.resumen.impl.UserDaoImpl;
 

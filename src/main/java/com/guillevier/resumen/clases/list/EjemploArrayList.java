@@ -1,6 +1,6 @@
 package com.guillevier.resumen.clases.list;
 
-import com.guillevier.resumen.clases.Alumno;
+import com.guillevier.resumen.clases.models.Alumno;
 
 import java.util.ArrayList;
 import java.util.List;
