@@ -29,7 +29,7 @@ public class EjemploArreglos {
     System.out.println("productos[6] = " + prod7);
     int[] numeros = new int[4];
     numeros[0] = 10;
-    numeros[1] = Integer.valueOf("7");
+    numeros[1] = Integer.parseInt("7");
     numeros[2] = 35;
     numeros[3] = -1;
     // numeros[4] = 5;

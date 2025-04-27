@@ -36,12 +36,10 @@ public class MyLinkedList {
     // Recupera y elimina el primer elemento de la lista, o devuelve null si la lista está vacía.
     String firstCarName = carNames.poll();
     System.out.println(firstCarName);
-    // Devuelve un arreglo que contiene todos los elementos de la lista en el orden correcto.
-    String[] carNamesArray = carNames.toArray(new String[0]);
-    System.out.println(carNamesArray[0]);
-    System.out.println(carNamesArray[1]);
-    System.out.println(carNamesArray[2]);
-    System.out.println(carNamesArray[3]);
+    System.out.println(carNames);
+    for (String carName : carNames) {
+      System.out.println(carName);
+    }
     // Elimina todos los elementos de la lista.
     carNames.clear();
   }

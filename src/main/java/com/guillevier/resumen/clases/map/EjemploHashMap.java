@@ -8,7 +8,7 @@ import java.util.Set;
 public class EjemploHashMap {
   public static void main(String[] args) {
     Map<String, Object> persona = new HashMap<>();
-    System.out.println("contiene elementos=" + !persona.isEmpty());
+    System.out.println("contiene elementos = " + !persona.isEmpty());
     persona.put(null, "1234");
     persona.put(null, "12345");
     persona.put("nombre", "John");
@@ -57,7 +57,6 @@ public class EjemploHashMap {
     for (Map.Entry<String, Object> par : persona.entrySet()) {
       Object valor = par.getValue();
       if (valor instanceof Map) {
-        String nom = (String) persona.get("nombre");
         Map<String, String> direccionMap = (Map<String, String>) valor;
         for (Map.Entry<String, String> parDir : direccionMap.entrySet()) {
           System.out.println(parDir.getKey() + " => " + parDir.getValue());

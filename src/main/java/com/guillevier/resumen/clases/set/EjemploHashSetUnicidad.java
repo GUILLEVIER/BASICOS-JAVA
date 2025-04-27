@@ -23,7 +23,7 @@ public class EjemploHashSetUnicidad {
     for (Alumno a : sa) {
       System.out.println(a.getNombre());
     }
-    System.out.println("Iterando usando while y iterator");
+    System.out.println("Iterando usando while e iterator");
     Iterator<Alumno> it = sa.iterator();
     while (it.hasNext()) {
       Alumno a = it.next();

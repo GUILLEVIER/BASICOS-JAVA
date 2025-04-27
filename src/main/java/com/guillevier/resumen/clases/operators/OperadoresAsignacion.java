@@ -12,7 +12,7 @@ public class OperadoresAsignacion {
     System.out.println("i = " + i);
     j -= 4; // j = j - 4
     System.out.println("j = " + j);
-    j *= 3; // j = j * 3;
+    j *= 3; // j = j * 3
     System.out.println("j = " + j);
     String sqlString = "select * from clientes as c";
     sqlString += " where c.nombre='Andres' ";

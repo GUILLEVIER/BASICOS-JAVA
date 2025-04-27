@@ -14,6 +14,7 @@ public class EjemploArreglosBuscarNumero {
     int num = s.nextInt();
     int i = 0;
     for (; i < a.length && a[i] != num; i++) {
+      // CODE FOR THIS CONDITION
     }
     if (i == a.length) {
       System.out.println("Número no encontrado");

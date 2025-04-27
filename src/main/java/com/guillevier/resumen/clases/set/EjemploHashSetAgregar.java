@@ -13,7 +13,7 @@ public class EjemploHashSetAgregar {
     System.out.println(hs.add("cinco"));
     System.out.println(hs);
     boolean b = hs.add("tres");
-    System.out.println("permite elementos duplicados = " + b);
+    System.out.println("permite elementos duplicados = " + b); // false
     System.out.println(hs);
   }
 }

@@ -22,10 +22,10 @@ public class OperadorTernario {
     System.out.println("Promedio = " + promedio);
     estado = promedio >= 5.49 ? "Aprobado" : "Rechazado";
     System.out.println("Estado = " + estado);
-       /* if(promedio >= 5.49){
-            estado = "Aprobado";
-        } else {
-            estado = "Rechazado";
-        }*/
+    /* if(promedio >= 5.49){
+        estado = "Aprobado";
+    } else {
+        estado = "Rechazado";
+    }*/
   }
 }

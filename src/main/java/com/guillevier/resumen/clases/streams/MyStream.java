@@ -42,6 +42,7 @@ public class MyStream {
     List<Integer> numbersThreeList = Arrays.asList(1, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10);
     List<Integer> numbersThreeArrayList = new ArrayList<>(numbersThreeList);
     System.out.println("LISTA CON ELEMENTOS DUPLICADOS: " + numbersThreeArrayList);
+    
     // Eliminar los elementos que se encuentren duplicados de la lista, dejando solo los elementos únicos.
     numbersThreeArrayList.removeIf(numbersRemoveIf -> Collections.frequency(numbersThreeArrayList, numbersRemoveIf) > 1);
     System.out.println("LISTA SIN ELEMENTOS DUPLICADOS: " + numbersThreeArrayList);

@@ -40,7 +40,6 @@ public class EjemploLinkedList {
       Alumno alumno = li.next();
       System.out.println(alumno);
     }
-    System.out.println("=================== Previous");
     while (li.hasPrevious()) {
       Alumno alumno = li.previous();
       System.out.println(alumno);

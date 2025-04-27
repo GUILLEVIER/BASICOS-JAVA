@@ -28,7 +28,7 @@ public class MyTreeMap {
     System.out.println(treeMap.size()); // Imprime 2
     // Crea un nuevo TreeMap
     // clave: String
-    // valor: Map --> clave: Integer, valor: Doctor (Object)
+    // valor: Map --> clave: Integer, valor: Car (Object)
     Map<String, Map<Integer, Car>> concessionaire = new TreeMap<>();
     Car f150 = new Car(2025, "F-150"), ranger = new Car(2025, "Ranger"), bronco = new Car(2025, "Bronco");
     Map<Integer, Car> fordModels = new TreeMap<>();
@@ -37,10 +37,11 @@ public class MyTreeMap {
     fordModels.put(3, bronco);
     concessionaire.put("Ford", fordModels);
     // Imprimir el contenido del TreeMap concessionaire
+    System.out.println("****Concesionario****");
     for (Map.Entry<String, Map<Integer, Car>> entry : concessionaire.entrySet()) {
       String brand = entry.getKey();
       Map<Integer, Car> models = entry.getValue();
-      System.out.println("Concesionario: " + brand);
+      System.out.println("Marca: " + brand);
       for (Map.Entry<Integer, Car> modelEntry : models.entrySet()) {
         Integer modelId = modelEntry.getKey();
         Car car = modelEntry.getValue();

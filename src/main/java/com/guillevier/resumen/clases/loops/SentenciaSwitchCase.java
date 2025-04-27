@@ -112,7 +112,6 @@ public class SentenciaSwitchCase {
         }
         break;
       default:
-        numeroDias = 0;
     }
     System.out.println("numeroDias = " + numeroDias);
   }

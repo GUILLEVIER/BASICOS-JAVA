@@ -20,8 +20,8 @@ public class EjemploListComparableComparator {
     sa.add(new Alumno("Lucas", 2));
     sa.add(new Alumno("Lucas", 3));
     sa.sort(comparing(Alumno::getNombre).reversed());
-    System.out.println(sa);
-    System.out.println("Iterando usando Stream forEach");
+    System.out.println("Sin Iterar: " + sa);
+    System.out.println("Iterando usando Stream forEach: ");
     sa.forEach(System.out::println);
   }
 }

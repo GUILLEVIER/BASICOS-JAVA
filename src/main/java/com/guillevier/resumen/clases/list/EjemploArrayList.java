@@ -21,7 +21,7 @@ public class EjemploArrayList {
     System.out.println(al + ", size = " + al.size());
     boolean b = al.contains(new Alumno("Cata", 6));
     System.out.println("La lista contiene a Cata = " + b);
-    Object a[] = al.toArray();
+    Object[] a = al.toArray();
     for (int i = 0; i < a.length; i++) {
       System.out.println("Desde el arreglo = " + a[i]);
     }

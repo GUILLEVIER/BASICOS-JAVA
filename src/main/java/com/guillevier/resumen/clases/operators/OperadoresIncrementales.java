@@ -9,7 +9,6 @@ public class OperadoresIncrementales {
     System.out.println("j = " + j);
     // Post incremento
     i = 2;
-    System.out.println("inicial de i = " + i);
     j = i++;
     System.out.println("i = " + i);
     System.out.println("j = " + j);

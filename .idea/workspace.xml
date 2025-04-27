@@ -6,172 +6,104 @@
   <component name="ChangeListManager">
     <list default="true" id="a843d3d9-f383-444e-995b-0b3b30762847" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Alumno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Cast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/cast/Cast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/ClaseEnvolvente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/ClaseEnvolvente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/enums/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Componente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Componente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/constants/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/ConversionDeTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/cast/ConversionDeTipos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/CreateFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/CreateFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/DeleteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/DeleteFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/DeleteFolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/DeleteFolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/DomesticCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/DomesticCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploArregloNotasAlumnos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArregloNotasAlumnos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploArreglos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploArreglosBuscarNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosBuscarNumero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploArreglosBuscarString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosBuscarString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploArreglosFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploArreglosForInverso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosForInverso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploArreglosForInversoMutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosForInversoMutable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploArreglosForOrdenamientoBurbuja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosForOrdenamientoBurbuja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploArreglosNumMayor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosNumMayor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploArreglosOrdenPrincipioFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosOrdenPrincipioFinal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploArreglosParesImpares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosParesImpares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploAsignarPropiedadesDeSistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/EjemploAsignarPropiedadesDeSistema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploClaseMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/maths/EjemploClaseMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploClaseMathRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/maths/EjemploClaseMathRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionals/EjemploConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploDuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/times/EjemploDuration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploDuration2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/times/EjemploDuration2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploEjecutarProgramaSO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/EjemploEjecutarProgramaSO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionals/EjemploFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploJavaUtilCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/calendars/EjemploJavaUtilCalendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploJavaUtilDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/calendars/EjemploJavaUtilDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploJavaUtilDateParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/calendars/EjemploJavaUtilDateParse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploLocalDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/calendars/EjemploLocalDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploLocalDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/calendars/EjemploLocalDateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploLocalTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/calendars/EjemploLocalTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatrices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesBuscar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatricesBuscar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesColumnasVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatricesColumnasVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesIdentidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatricesIdentidad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesMarco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatricesMarco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesSimetrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatricesSimetrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesStringFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatricesStringFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesStringFor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatricesStringFor2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesSumar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatricesSumar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesSumarFilasColumnas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatricesSumarFilasColumnas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesTransponerMatriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatricesTransponerMatriz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMatricesTranspuesta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploMatricesTranspuesta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploMetodoGetClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionals/EjemploMetodoGetClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionals/EjemploOptional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploPeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/times/EjemploPeriod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionals/EjemploPredicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploPropiedadesDeSistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/EjemploPropiedadesDeSistema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploRecursividad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploRecursividad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamDistinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamDistinct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamDistinctUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamDistinctUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamDistinctUsuarioSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamDistinctUsuarioSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamFilterAnyMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterAnyMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamFilterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamFilterEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterEmpty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamFilterSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterSingle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamFilterSingle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterSingle2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamFlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFlatMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamInfinitoGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamInfinitoGenerate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamListToStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamListToStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamParallel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamParallel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamReduce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStreamReduceInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamReduceInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStringConcatenacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringConcatenacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStringExtensionArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringExtensionArchivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStringInmutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringInmutable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStringMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringMetodos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStringMetodosArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringMetodosArreglo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStringTestRendimientoConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringTestRendimientoConcat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploStringValidar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringValidar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploVariablesDeEntorno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/EjemploVariablesDeEntorno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemploZonedDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/times/EjemploZonedDateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/EjemplosArreglosEliminarElemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemplosArreglosEliminarElemento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Estanque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Estanque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/FirstInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/FirstInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionals/Functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Gato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/GetFileInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/GetFileInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/conditionalStatements/IfStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/IncrementDecrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/primitives/IncrementDecrement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/IntefazMultiple" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/IntefazMultiple" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/LocalDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/times/LocalDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/LogicOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/LogicOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/MyCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/map/MyHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/set/MyHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/MyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/MyStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/MyString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/hilos/ejemplos/threads/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/hilos/ejemplos/threads/MyThread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/MyTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/map/MyTreeMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/OperadorInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadorInstanceOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/OperadorInstanceOfTiposGenericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadorInstanceOfTiposGenericos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/OperadorTernario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadorTernario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/OperadorTernarioNumeroMayor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadorTernarioNumeroMayor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/OperadoresAritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresAritmeticos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/OperadoresAsignacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresAsignacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/OperadoresIncrementales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresIncrementales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/OperadoresLogico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresLogico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/OperadoresLogicosLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresLogicosLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/OperadoresRelacionales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresRelacionales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/OperadoresUnarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresUnarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/PasarPorReferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/primitives/PasarPorReferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/PasarPorValor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/primitives/PasarPorValor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Perro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Perro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/PrecedenciaOperadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/PrecedenciaOperadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/PrimitivosBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/primitives/PrimitivosBoolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/PrimitivosCaracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/primitives/PrimitivosCaracteres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/PrimitivosEnteros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/primitives/PrimitivosEnteros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/PrimitivosFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/primitives/PrimitivosFloat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/ReadFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Repositorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Repositorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Rueda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Rueda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/SecondInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/SecondInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/SentenciaFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/SentenciaFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/SentenciaForArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/SentenciaForArreglo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/SentenciaForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/SentenciaForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/SentenciaIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/conditionalStatements/SentenciaIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/SentenciaIfElseNumDiasMes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/conditionalStatements/SentenciaIfElseNumDiasMes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/SentenciaSwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/SentenciaSwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/SentenciasBucleEtiquetas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/SentenciasBucleEtiquetas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/SentenciasBucleEtiquetasBuscar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/SentenciasBucleEtiquetasBuscar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/SwitchStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/TipoAutomovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/enums/TipoAutomovil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/TipoMotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/enums/TipoMotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/UpdatingVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/primitives/UpdatingVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/primitives/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/WrapperBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/primitives/WrapperBoolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/WrapperInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/primitives/WrapperInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/WrapperOperadoresRelacionales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/WrapperOperadoresRelacionales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/WriteToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/WriteToFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosBuscarNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosBuscarNumero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosForInversoMutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/array/EjemploArreglosForInversoMutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/EjemploVariablesDeEntorno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/EjemploVariablesDeEntorno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/functionsFileFolderOS/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/EjemploArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/EjemploArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/EjemploLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/EjemploLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/EjemploListComparableComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/EjemploListComparableComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/MyCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/MyCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/list/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/SentenciaSwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/SentenciaSwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/SentenciasBucleEtiquetas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/loops/SentenciasBucleEtiquetas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/map/EjemploHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/map/EjemploHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/map/MyTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/map/MyTreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/models/Alumno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadorInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadorInstanceOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadorInstanceOfTiposGenericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadorInstanceOfTiposGenericos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadorTernario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadorTernario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresAritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresAritmeticos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresAsignacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresAsignacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresIncrementales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresIncrementales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresLogico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/OperadoresLogico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/PrecedenciaOperadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/operators/PrecedenciaOperadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/set/EjemploHashSetAgregar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/set/EjemploHashSetAgregar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/set/EjemploHashSetUnicidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/set/EjemploHashSetUnicidad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/set/EjemploTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/set/EjemploTreeSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/set/EjemploTreeSetComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/set/EjemploTreeSetComparable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamDistinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamDistinct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamDistinctUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamDistinctUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamDistinctUsuarioSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamDistinctUsuarioSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterAnyMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterAnyMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterSingle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterSingle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFilterSingle2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamFlatMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/EjemploStreamReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/MyStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/streams/MyStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringConcatenacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringConcatenacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringInmutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringInmutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringMetodosArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringMetodosArreglo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringTestRendimientoConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/strings/EjemploStringTestRendimientoConcat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/validador/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guillevier/resumen/clases/validador/EjemploExcepciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Calculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Cast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/ClaseEnvolvente$ClaseInternaEstatica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/ClaseEnvolvente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Color$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Color$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Color$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/CreateFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/DeleteFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/DeleteFolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/DoWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/DomesticCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/FirstInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/GetFileInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/IfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/IncrementDecrement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/LocalDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/LogicOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Mammal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/MyTreeMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Perro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/ReadFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/SecondInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/UpdatingVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/clases/WriteToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/guillevier/resumen/impl/UserDaoImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,40 +136,100 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Calculadora.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cast.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IncrementDecrement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InterfazMultiple.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyHashSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyThread2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyTreeMap.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gjmeU/Desktop/JAVA/MICROSERVICIOS-JAVA-THREE&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calculadora.executor": "Run",
+    "Application.Cast.executor": "Run",
+    "Application.ConversionDeTipos.executor": "Run",
+    "Application.DoWhileLoop.executor": "Run",
+    "Application.EjemploAsignarPropiedadesDeSistema.executor": "Run",
+    "Application.EjemploConsumer.executor": "Run",
+    "Application.EjemploEjecutarProgramaSO.executor": "Run",
+    "Application.EjemploExecutor.executor": "Run",
+    "Application.EjemploFunction.executor": "Run",
+    "Application.EjemploHashMap.executor": "Run",
+    "Application.EjemploHashSetAgregar.executor": "Run",
+    "Application.EjemploHashSetBuscarDuplicado.executor": "Run",
+    "Application.EjemploHashSetBuscarDuplicado2.executor": "Run",
+    "Application.EjemploImprenta.executor": "Run",
+    "Application.EjemploListComparableComparator.executor": "Run",
+    "Application.EjemploMatricesBuscar.executor": "Run",
+    "Application.EjemploMetodoGetClass.executor": "Run",
+    "Application.EjemploOptional.executor": "Run",
+    "Application.EjemploPredicate.executor": "Run",
+    "Application.EjemploPropiedadesDeSistema.executor": "Run",
+    "Application.EjemploStreamDistinct.executor": "Run",
+    "Application.EjemploStreamDistinctUsuarioSum.executor": "Run",
+    "Application.EjemploStreamFilterAnyMatch.executor": "Run",
+    "Application.EjemploStreamFilterCount.executor": "Run",
+    "Application.EjemploStreamFilterSingle.executor": "Run",
+    "Application.EjemploStreamFilterSingle2.executor": "Run",
+    "Application.EjemploStreamFlatMap.executor": "Run",
+    "Application.EjemploStreamInfinitoGenerate.executor": "Run",
+    "Application.EjemploStreamListToStream.executor": "Run",
+    "Application.EjemploStreamMap.executor": "Run",
+    "Application.EjemploStreamParallel.executor": "Run",
+    "Application.EjemploStreamReduce.executor": "Run",
+    "Application.EjemploStreamReduceInt.executor": "Run",
+    "Application.EjemploStringInmutable.executor": "Run",
+    "Application.EjemploStringMetodosArreglo.executor": "Run",
+    "Application.EjemploStringTestRendimientoConcat.executor": "Run",
+    "Application.EjemploStringValidar.executor": "Run",
+    "Application.EjemploTreeSet.executor": "Run",
+    "Application.EjemploTreeSetComparable.executor": "Run",
+    "Application.EjemploVariablesDeEntorno.executor": "Run",
+    "Application.EjemplosArreglosEliminarElemento.executor": "Run",
+    "Application.GetFileInfo.executor": "Run",
+    "Application.IncrementDecrement.executor": "Run",
+    "Application.InterfazMultiple.executor": "Run",
+    "Application.MyClass.executor": "Run",
+    "Application.MyCollection.executor": "Run",
+    "Application.MyException.executor": "Run",
+    "Application.MyHashSet.executor": "Run",
+    "Application.MyLinkedList.executor": "Run",
+    "Application.MyString.executor": "Run",
+    "Application.MyStringBuilder.executor": "Run",
+    "Application.MyThread.executor": "Run",
+    "Application.MyThread2.executor": "Run",
+    "Application.MyTreeMap.executor": "Run",
+    "Application.OperadorInstanceOf.executor": "Run",
+    "Application.OperadorInstanceOfTiposGenericos.executor": "Run",
+    "Application.OperadorTernario.executor": "Run",
+    "Application.OperadorTernarioNumeroMayor.executor": "Run",
+    "Application.OperadoresAritmeticos.executor": "Run",
+    "Application.OperadoresLogico.executor": "Run",
+    "Application.OperadoresLogicosLogin.executor": "Run",
+    "Application.OperadoresRelacionales.executor": "Run",
+    "Application.OperadoresUnarios.executor": "Run",
+    "Application.PrecedenciaOperadores.executor": "Run",
+    "Application.SentenciaFor.executor": "Run",
+    "Application.SentenciaForArreglo.executor": "Run",
+    "Application.SentenciaIfElseNumDiasMes.executor": "Run",
+    "Application.SentenciasBucleEtiquetas.executor": "Run",
+    "Application.SentenciasBucleEtiquetasBuscar.executor": "Run",
+    "Application.WrapperOperadoresRelacionales.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gjmeU/Desktop/JAVA/MICROSERVICIOS-JAVA-THREE",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gjmeU\Desktop\JAVA\BASICOS-JAVA\src" />
       <recent name="C:\Users\gjmeU\Desktop\JAVA\BASICOS-JAVA\src\main\java\com\guillevier\resumen\clases\functionsFile" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyString">
-    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.guillevier.resumen.clases.Calculadora" />
+  <component name="RunManager" selected="Application.EjemploStreamReduceInt">
+    <configuration name="EjemploStreamListToStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guillevier.resumen.clases.streams.EjemploStreamListToStream" />
       <module name="resumen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.guillevier.resumen.clases.functionsFileFolderOS.*" />
+          <option name="PATTERN" value="com.guillevier.resumen.clases.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.guillevier.resumen.clases.set.MyHashSet" />
+    <configuration name="EjemploStreamMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guillevier.resumen.clases.streams.EjemploStreamMap" />
       <module name="resumen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.guillevier.resumen.clases.functionsFileFolderOS.*" />
+          <option name="PATTERN" value="com.guillevier.resumen.clases.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.guillevier.resumen.clases.strings.MyString" />
+    <configuration name="EjemploStreamParallel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guillevier.resumen.clases.streams.EjemploStreamParallel" />
       <module name="resumen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.guillevier.resumen.clases.functionsFileFolderOS.*" />
+          <option name="PATTERN" value="com.guillevier.resumen.clases.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.guillevier.resumen.clases.hilos.ejemplos.threads.MyThread" />
+    <configuration name="EjemploStreamReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guillevier.resumen.clases.streams.EjemploStreamReduce" />
       <module name="resumen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.guillevier.resumen.clases.functionsFileFolderOS.*" />
+          <option name="PATTERN" value="com.guillevier.resumen.clases.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyThread2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.guillevier.resumen.clases.hilos.ejemplos.threads.MyThread2" />
+    <configuration name="EjemploStreamReduceInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guillevier.resumen.clases.streams.EjemploStreamReduceInt" />
       <module name="resumen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.guillevier.resumen.clases.functionsFileFolderOS.*" />
+          <option name="PATTERN" value="com.guillevier.resumen.clases.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyString" />
-        <item itemvalue="Application.Calculadora" />
-        <item itemvalue="Application.MyHashSet" />
-        <item itemvalue="Application.MyThread2" />
-        <item itemvalue="Application.MyThread" />
+        <item itemvalue="Application.EjemploStreamReduceInt" />
+        <item itemvalue="Application.EjemploStreamReduce" />
+        <item itemvalue="Application.EjemploStreamParallel" />
+        <item itemvalue="Application.EjemploStreamMap" />
+        <item itemvalue="Application.EjemploStreamListToStream" />
       </list>
     </recent_temporary>
   </component>

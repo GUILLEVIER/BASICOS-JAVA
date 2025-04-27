@@ -20,7 +20,7 @@ public class OperadoresAritmeticos {
     System.out.println("resto = " + resto);
     resto = 8 % 5;
     System.out.println("resto = " + resto);
-    int numero = Integer.parseInt(JOptionPane.showInputDialog("ingrese un numero"));
+    int numero = Integer.parseInt(JOptionPane.showInputDialog("Ingrese un numero"));
     if (numero % 2 == 0) {
       System.out.println("numero par = " + numero);
     } else {

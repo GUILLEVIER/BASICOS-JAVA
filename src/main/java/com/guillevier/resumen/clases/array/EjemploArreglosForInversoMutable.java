@@ -1,6 +1,7 @@
 package com.guillevier.resumen.clases.array;
 
 import java.util.Arrays;
+import java.util.Collections;
 
 public class EjemploArreglosForInversoMutable {
 
@@ -24,7 +25,7 @@ public class EjemploArreglosForInversoMutable {
     int total = productos.length;
     Arrays.sort(productos);
     arregloInverso(productos);
-    // Collections.reverse(Arrays.asList(productos));
+    Collections.reverse(Arrays.asList(productos));
     System.out.println("=== Usando for ===");
     for (int i = 0; i < total; i++) {
       System.out.println("para indice " + i + " : " + productos[i]);

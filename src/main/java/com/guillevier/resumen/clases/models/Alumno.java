@@ -33,4 +33,12 @@ public class Alumno {
   public void setNota(String nota) {
     this.nota = nota;
   }
+
+  @Override
+  public String toString() {
+    return "Alumno { " +
+            "nombre='" + nombre + '\'' +
+            ", indice=" + indice +
+            ", nota='" + nota + '\'' + " }" + "\n";
+  }
 }

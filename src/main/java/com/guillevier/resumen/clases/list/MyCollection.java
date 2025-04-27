@@ -14,11 +14,12 @@ public class MyCollection {
     carsAL.add("Mazda");
     // Get the iterator
     Iterator<String> it = carsAL.iterator();
-    // Print the first item
-    System.out.println(it.next());
     while (it.hasNext()) {
-      System.out.println(it.next());
+      String valueToDelete = "Ford";
+      String actualBrandName = it.next();
+      if (actualBrandName.equals(valueToDelete)) it.remove();
     }
+    System.out.println(carsAL);
 
     ArrayList<Integer> numbersAL = new ArrayList<Integer>();
     numbersAL.add(12);
@@ -32,5 +33,6 @@ public class MyCollection {
         numberIt.remove();
       }
     }
+    System.out.println(numbersAL);
   }
 }

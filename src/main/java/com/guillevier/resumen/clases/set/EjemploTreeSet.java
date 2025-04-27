@@ -6,7 +6,9 @@ import java.util.TreeSet;
 
 public class EjemploTreeSet {
   public static void main(String[] args) {
-    Set<String> ts = new TreeSet<>((a, b) -> b.compareTo(a));
+    Set<String> ts = new TreeSet<>((a, b) ->
+            b.compareTo(a)
+    );
     ts.add("uno");
     ts.add("dos");
     ts.add("tres");

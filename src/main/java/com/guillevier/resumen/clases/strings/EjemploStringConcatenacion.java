@@ -10,7 +10,7 @@ public class EjemploStringConcatenacion {
     int numeroB = 5;
     System.out.println(detalle + (numeroA + numeroB));
     System.out.println(numeroA + numeroB + detalle);
-    String detalle2 = curso.concat(" con ").concat(profesor);
+    String detalle2 = curso.concat(" con el instructor ").concat(profesor);
     System.out.println("detalle2 = " + detalle2);
   }
 }
