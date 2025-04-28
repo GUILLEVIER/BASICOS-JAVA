@@ -83,6 +83,10 @@ public class EjemploHashMap {
     persona.forEach((llave, valor) -> {
       System.out.println(llave + " => " + valor);
     });
+    persona.forEach((k, v) -> {
+      System.out.println("Clave: " + k);
+      System.out.println("Valor: " + v);
+    });
     System.out.println("total: " + persona.size());
     System.out.println("contiene elementos=" + !persona.isEmpty());
     boolean b3 = persona.replace("nombre", "John", "Andrés");

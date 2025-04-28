@@ -23,5 +23,16 @@ class Variables {
     String employeeName = "Cindy Oñate";
     // Printing the value of the variable
     System.out.println("Nombre: " + employeeName + " Edad: " + age);
+    // Integer
+    int num = 5;
+    // Float
+    float floatNum = 5.99f;
+    // Character
+    char letter = 'D';
+    // Boolean
+    boolean bool = true;
+    // String
+    String site = "quickref.me";
+
   }
 }
